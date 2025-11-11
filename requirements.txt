@@ -1,0 +1,6 @@
+plint
+pytest
+click
+black
+pytest-cov
+ruff
